@@ -19,7 +19,7 @@ import com.charan.springmvc.mongo.UserService;
 @RequestMapping("/user")
 public class UserController {
  
- //adding the first comment
+ //adding the fourth comment
     private static Logger log = Logger.getLogger(UserController.class);
  
     @Resource(name="userService")
