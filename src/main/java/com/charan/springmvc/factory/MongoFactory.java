@@ -14,7 +14,7 @@ public class MongoFactory {
  
     private MongoFactory() { }
  
-    // Returns a mongo instance.
+    // updated comment .....it returns Returns a mongo instance.
     public static Mongo getMongo() {
         int port_no = 27017;
         String hostname = "localhost";      
